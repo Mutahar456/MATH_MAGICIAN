@@ -19,7 +19,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd math-magicians
-  git git@github.com:fickryiman/math-magicians.git
+  git https://github.com/Mutahar456/MATH_MAGICIAN
 ```
 
 
@@ -66,7 +66,7 @@ You can deploy this project using:
 GitHub Pages
 Example:
 ```sh
-https://fickryiman.github.io/math-magicians/
+https://github.com/Mutahar456/MATH_MAGICIAN/
 ```
 
 
@@ -77,10 +77,10 @@ https://fickryiman.github.io/math-magicians/
 
 👤 **SYEDA SALEHA KHUBAIB**
 
-- GitHub: [@fickryiman](https://github.com/fickryiman)
+- GitHub: [Mutahar456](https://github.com/salehaKhubaib)
 
 👤 **HAFIZ MUTAHAR HASHMI**
 
-- GitHub: [@fickryiman](https://github.com/fickryiman)
+- GitHub: [salehaKhubaib](https://github.com/Mutahar456)
 
 
